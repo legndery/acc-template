@@ -119,6 +119,9 @@ border-color: #424242;
 .navbar-nav>li>a {
 text-transform: uppercase;
 }
+.navbar-brand img{
+height: 55px;
+}
 @-webkit-keyframes scaleIn {
   0% {
     opacity: 0;
@@ -715,7 +718,7 @@ padding:0px;
 margin: 15px 0;
 }
  .features .media.service-box .pull-left > i{
-color: #62BDF0;
+color: white;
 /* border: 4px solid #fff; */
 }
 .features .media.service-box {
@@ -961,6 +964,7 @@ font-size: 26px;
 line-height: 40px;
 background: rgba(255, 255, 255, 0.68);
 padding: 10px;
+border-radius: 10px;
 }
 #hero-banner p {
 font-size: 18px;

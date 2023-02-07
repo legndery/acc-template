@@ -45,7 +45,7 @@ jQuery(function($) {
   
     new WOW().init();
      
-    smoothScroll.init();
+    // smoothScroll.init();
 
     
     $(window).load(function() {
